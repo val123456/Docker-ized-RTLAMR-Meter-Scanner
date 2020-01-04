@@ -1,0 +1,16 @@
+version: '3'
+services:
+
+  rtlamr-print:
+    build: ./rtlamr-print
+    stop_grace_period: 4s
+    # must run privileged to access the USB SDR dongle
+    privileged: true
+    logging:
+        driver: "json-file"
+        options:
+            max-size: "1m"
+            max-file: "1"
+    restart: "no"
+    volumes:
+      - ../meter_data:/data:rw
