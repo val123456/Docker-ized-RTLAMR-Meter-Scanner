@@ -6,7 +6,7 @@ This project leverages the great work done by Douglas Hall ([https://github.com/
 
 I've been using rtlamr plus some custom collection and graphing code on my general purpose Linux server for several years to track electric usage and solar panel output.  In the middle of 2019 I decided to move it to a [Raspberry Pi](https://www.raspberrypi.org/).  At that time I decided to see if using [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) could help with managing deployment and fault tolerance.
 
-So far the results are very promising, and I have decided to open source the result.  rtlamr-print-docker is the first release, designed to help potential users test rtlamr and see if their meter data can be collected.
+So far the results are very promising, and I have decided to open source the result.  Docker-ized RTLAMR Meter Scanner is the first release, designed to help potential users test rtlamr and see if their meter data can be collected.
 
 # Requirements 
 
