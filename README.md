@@ -19,8 +19,8 @@ This project has been tested on the following:
 | OS  | Docker | Docker Compose |Hardware| 
 | ------------- | ------------- |------------|---------|
 | CentOS 7.7 (x86_64)|19.03.5|1.18.0|Dell PowerEdge T20|
-|Ubuntu 18.04.3 LTS (aarch64)|18.09.7|1.17.1|Raspberry Pi 3 B+ *(underpowered if looking for all meter types)*|
-|Raspbian 10 (buster)|19.03.5|1.17.1|Raspberry Pi 4 B *(running from a SanDisk Extreme SSD)*|
+|Ubuntu 18.04.3 LTS (aarch64)|18.09.7|1.17.1|Raspberry Pi 3 B+ *(underpowered if looking for R900 meters)*|
+|Raspbian 10 (buster)|19.03.5|1.17.1|Raspberry Pi 4 B *(may be underpowered if looking for all meters types, running from a SanDisk Extreme SSD)*|
 
 
 **Hardware Notes**: 
