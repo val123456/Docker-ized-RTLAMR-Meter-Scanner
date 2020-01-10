@@ -8,6 +8,8 @@ I've been using rtlamr plus some custom collection and graphing code on my gener
 
 So far the results are very promising, and I have decided to open source the result.  Docker-ized RTLAMR Meter Scanner is the first release, designed to help potential users test rtlamr and see if their meter data can be collected.
 
+**Note:**  This project is mirrored to GitHub here:  [https://github.com/val123456/Docker-ized-RTLAMR-Meter-Scanner](https://github.com/val123456/Docker-ized-RTLAMR-Meter-Scanner)
+
 # Requirements 
 
 Linux OS with Docker and Docker Compose installed and an RTL2832U SDR.  I have had good luck with the dongles from RTL-SDR ([https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/)).
