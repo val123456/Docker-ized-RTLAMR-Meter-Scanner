@@ -37,7 +37,7 @@ On my Raspberry Pi 4 with 4GB of RAM running Raspbian 10/buster, it takes about 
 
 ## Expected Output
 
-The meter readings will be sent to the screen and written to a text file **meters.txt ** in the ../meter_data folder. 
+The meter readings will be sent to the screen and written to a text file **meters.txt** in the ../meter_data folder. 
 
 **Note**: this file will be appended to each time this program is run!
 
