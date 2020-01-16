@@ -8,7 +8,7 @@ I've been using rtlamr plus some custom collection and graphing code on my gener
 
 So far the results are very promising, and I have decided to open source the result.  Docker-ized RTLAMR Meter Scanner is the first release, designed to help potential users test rtlamr and see if their meter data can be collected.
 
-**Note:**  This project is mirrored to GitHub here:  [https://github.com/val123456/Docker-ized-RTLAMR-Meter-Scanner](https://github.com/val123456/Docker-ized-RTLAMR-Meter-Scanner)
+**Note:**  This project is hosted on Gitlab at [https://gitlab.com/colinv/docker-rtlamr-meter-scanner](https://gitlab.com/colinv/docker-rtlamr-meter-scanner) and mirrored to GitHub here [https://github.com/val123456/Docker-ized-RTLAMR-Meter-Scanner](https://github.com/val123456/Docker-ized-RTLAMR-Meter-Scanner)
 
 # Requirements 
 
